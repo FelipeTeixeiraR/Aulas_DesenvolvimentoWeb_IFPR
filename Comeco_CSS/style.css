@@ -1,0 +1,15 @@
+/*Arquivos CSS Principal*/
+body{
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    background-color: darkslategray;
+    color: lightgray;
+}
+h2{
+    color: rgb(39, 70, 70);
+}
+h3{
+    color: rgb(78, 122, 122);
+}
